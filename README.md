@@ -186,7 +186,7 @@ The source code for above thing is given below
 ###### You need to style the following element from below image
 ![You need to style the](ques1Input.png)
 ######  to below image
-![](ques2Output.png)
+![](ques1Output.png)
 
 ***
 
